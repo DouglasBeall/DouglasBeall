@@ -1,5 +1,5 @@
 ## Hello, World 🌎
-## Me chamo Douglas Beal e sou Desenvolvedor Front-End!!
+## Me chamo Douglas Beal e sou Desenvolvedor FullStack!!
 
 <div>
   <img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=douglasbeall&show_icons=true&theme=dracula">
